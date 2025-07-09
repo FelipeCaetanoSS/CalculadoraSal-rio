@@ -22,7 +22,7 @@ O projeto foi desenvolvido utilizando tecnologias web fundamentais.
 ## Estrutura dos Arquivos
 
 * `index.html`: A página inicial do projeto, que apresenta o site e contém a barra de navegação principal.
-* `main.css`: A folha de estilos central. Contém todas as regras de design, desde a tipografia e cores até as animações dos botões (`@keyframes ripple`) e dos campos de formulário.
+* `main.css`: A folha de estilos central. Contém todas as regras de design, desde a tipografia e cores até as animações dos botões e dos campos de formulário.
 * `main.js`: O coração funcional do projeto. Contém as funções para realizar todos os cálculos trabalhistas.
 
 ## Como Usar
